@@ -1,11 +1,8 @@
 '''
 Lab01: Fiesta San ANtonio Food Ordering app
 Chackpoint 1: Program Strcuture
-Author: Uday Singh
-abc123: fgr931
-IS 2053 ON2
 
-we need to create a file program that sets up the scaffold for Lab 1
+We need to create a file program that sets up the scaffold for Lab 1
 -Define main() functions
 -Print welcome message
 -uses the if __name__ == "__main__": main() "gaurd" at bottome of calls
